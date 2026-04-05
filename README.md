@@ -4,7 +4,7 @@
 
 "Hello! 👋 I'm Simona Petrova, a driven and meticulous Junior QA Engineer living in Sofia,fueling software excellence through sharp testing insights. Fresh from top-tier QA training at JQA Academy Group . 
 Dive into my repositories for real-world projects that prove my passion for quality,
-### Let's build flawless apps together!"
+Let's build flawless apps together!"
 
 ## 💼 Projects
 
