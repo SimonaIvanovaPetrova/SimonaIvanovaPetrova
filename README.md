@@ -33,7 +33,7 @@ Discover 4  repositories highlighting my testing prowess across websites and  mo
   
 ### 🔭 I’m currently working on Utest projects and i am open help with testing projects.
 
-### 🌱 I’m currently learning how to become best QA possible.
+### 🌱 I’m currently learning how to become good QA expert.
 
 ## 🌐 Interests:
 - 🏔 Hiking
