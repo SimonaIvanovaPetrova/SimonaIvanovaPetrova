@@ -24,13 +24,13 @@ Discover 4  repositories highlighting my testing prowess across websites and  mo
 - Hands-on tools for streamlined testing pipelines.
 
 ## 🚀 Skills
-- JMeter
-- Postman
+- JMeter basic
+- Postman basic
 - Test case design & execution
 - Scrum & Agile
 - Chrome DevTools
-- Jira
-- 
+- Jira basic
+  
 ### 🔭 I’m currently working on Utest projects and i am open help with testing projects.
 
 ### 🌱 I’m currently learning how to become best QA possible.
