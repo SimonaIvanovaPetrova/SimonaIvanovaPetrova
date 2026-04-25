@@ -1,55 +1,103 @@
-# Welcome to My GitHub Profile 👋
+# 👋 Welcome to My GitHub Profile
 
-## 👩‍💻 About Me
+## 👩‍💻 Junior QA Engineer | Sofia, Bulgaria
 
-"Hello! 👋 I'm Simona Petrova, a driven and meticulous Junior QA Engineer living in Sofia,fueling software excellence through sharp testing insights. Fresh from top-tier QA training at JQA Academy Group . 
-Dive into my repositories for real-world projects that prove my passion for quality,
-Let's build flawless apps together!"
+Hello! I'm **Simona Petrova**, a Junior QA Engineer with hands-on experience in manual testing of web and mobile applications.  
+
+I specialize in creating detailed test cases, identifying and documenting bugs, and ensuring high software quality. I have completed professional QA training at **JQA Academy** and continue to build real-world experience through practical testing projects.
+
+I am passionate about delivering reliable applications and continuously improving my testing skills.
+
+---
 
 ## 💼 Projects
 
-Discover 4  repositories highlighting my testing prowess across websites and  mobile applications:
+Here are some of my QA projects demonstrating practical testing experience:
 
-- **👉 Help-a-Paw-Android-Test-Cases-And-Bugs**: Mobile application test cases and bugs for a pet rescue app—proving my cross-platform edge.
-- **👉 Teodor.bg-Test-Cases-And-Bugs**: Comprehensive test suites showcasing end-to-end QA for dynamic sites.
-- **👉 Workout.bg-Test-Cases-And-Bugs**: Targeted test cases ensuring seamless e-commerce experience.
--  **👉 Demoblaze.com-Test-Cases-And-Bugs**: Detailed bug hunts and reports from e-commerce testing adventures.
+### 🔹 Help-a-Paw (Android Testing)
+- Created 100+ test cases covering key user flows (registration, login)
+- Reported 10+ bugs with detailed steps, severity, and screenshots
+- Performed functional and UI testing on mobile devices
+- This repository represents a selection test cases and bugs.
+
+---
+
+### 🔹 Teodor.bg (Web Testing)
+- Designed comprehensive end-to-end test cases for an e-commerce platform
+- Executed  exploratory testing
+- Identified usability and functional issues
+- This repository represents a selection test cases and bugs.
+
+---
+
+### 🔹 Workout.bg (E-commerce Testing)
+- Developed structured test cases for product browsing and checkout flows
+- Tested core functionalities to ensure smooth user experience
+- Focused on user flows like login, cart, and purchase
+- Performed functional and UI testing
+- This repository represents a selection test cases and bugs.
+
+---
+
+### 🔹 Demoblaze.com (Web Testing)
+- Conducted exploratory testing on a demo e-commerce website
+- Reported bugs with clear reproduction steps and severity levels
+- Focused on user flows like login, cart, and purchase
+- This repository represents a selection test cases and bugs.
+
+---
 
 ## 🎓 Education
-**Quality Assurance Engineer at JQA Academy Group**
 
-- Core fundamentals of QA engineering and defect lifecycle mastery.
-- Test case design, execution, and optimization.
-- Deep dive into Agile, Scrum, and full SDLC workflows.
-- Hands-on tools for streamlined testing pipelines.
+**QA Engineer Training – JQA Academy**
+- Software Testing Fundamentals
+- Test Case Design & Execution
+- Bug Reporting & Defect Lifecycle
+- Agile & Scrum Methodologies
+- Software Development Life Cycle (SDLC)
 
-## 🚀 Skills
-- JMeter basic
-- Postman basic
-- Test case design & execution
-- Scrum & Agile
-- Chrome DevTools
-- Jira basic
-  
-### 🔭 I’m currently working on Utest projects and i am open help with testing projects.
+---
 
-### 🌱 I’m currently learning how to become good QA expert.
+## 🛠 Skills
 
-## 🌐 Interests:
-- 🏔 Hiking
-- 📖 Reading
-- ⭐ Selfimprovement
+- **Manual Testing**: Test case design, exploratory testing, regression testing  
+- **Bug Tracking**: Jira (bug reporting, workflows, prioritization)  
+- **API Testing**: Postman (REST API validation)  
+- **Performance Testing**: JMeter (basic load testing)  
+- **Web Testing**: Chrome DevTools (debugging, network analysis)  
+- **Methodologies**: Agile, Scrum  
 
-### ⚡ Fun fact: Bananas are hearbs.😉
-- Take it easy we will die anyways .
-  
-## Inspiring thoughts:
-- In a world that often reaches for quick fixes, choose the harder but more rewarding path.
-- Growth doesn’t come in a bottle-it comes from discipline, curiosity, and pushing beyond what’s comfortable.
+---
 
-##  📫 How to reach me:
+## 🔭 Current Focus
 
-- 📧 Email: simonaivanovapetrova@gmail.com
-- 🌐 LinkedIn: https://www.linkedin.com/in/simona-ivanova-petrova/
-- 🏠 Location: Sofia, Bulgaria
+- Working on real-world testing projects through uTest  
+- Improving bug reporting and exploratory testing skills  
+- Expanding knowledge in API and performance testing  
 
+---
+
+## 🌱 Interests
+
+- 🏔 Hiking  
+- 📖 Reading  
+- ⭐ Self-improvement  
+
+---
+
+## ⚡ Fun Fact
+Bananas are herbs 🍌
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: simonaivanovapetrova@gmail.com  
+- 🌐 LinkedIn: https://www.linkedin.com/in/simona-ivanova-petrova/  
+- 📍 Location: Sofia, Bulgaria  
+
+---
+
+## 💡 Inspiring Thoughts
+
+> Growth doesn’t come from comfort — it comes from discipline, curiosity, and persistence.
