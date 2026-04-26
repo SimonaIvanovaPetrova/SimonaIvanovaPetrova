@@ -17,8 +17,8 @@ Here are some of my QA projects demonstrating practical testing experience:
 ### 🔹 Help-a-Paw (Android Testing)
 - Created 100+ test cases covering key user flows (registration, login)
 - Reported 10+ bugs with detailed steps, severity, and screenshots
-- Performed functional and UI testing on mobile devices
-- This repository represents a selection test cases and bugs.
+- Performed functional and exploratory mobile devices
+- This repository represents a selection of test cases and bugs.
 
 ---
 
